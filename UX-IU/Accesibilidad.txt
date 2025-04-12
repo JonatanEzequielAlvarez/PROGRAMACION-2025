@@ -1,0 +1,14 @@
+♿ Accesibilidad
+Nos comprometemos a diseñar interfaces inclusivas y accesibles para todos los usuarios. En esta sección trabajamos en la mejora continua de elementos visuales y de interacción, con el objetivo de cumplir con buenas prácticas y estándares como las WCAG.
+
+Las tareas de accesibilidad incluyen:
+
+Ajuste de contraste y paletas de colores accesibles
+
+Navegación completa mediante teclado
+
+Soporte para lectores de pantalla
+
+Formularios con etiquetas y descripciones claras
+
+Contenido multimedia con alternativas textuales
